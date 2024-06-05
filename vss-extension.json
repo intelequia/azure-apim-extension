@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "id": "apim",
   "name": "API Management Suite",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "publisher": "intelequia",
   "tags": [
     "API",
@@ -16,10 +16,10 @@
   "public": true,
   "links": {
     "getstarted": {
-      "uri": "https://github.com/stephaneey/azure-apim-extension"
+      "uri": "https://github.com/intelequia/azure-apim-extension"
     },
     "support": {
-      "uri": "https://github.com/stephaneey/azure-apim-extension/issues"
+      "uri": "https://github.com/intelequia/azure-apim-extension/issues"
     }
   },
   "targets": [
